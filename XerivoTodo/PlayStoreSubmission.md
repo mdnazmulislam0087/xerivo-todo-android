@@ -25,19 +25,13 @@ Download Xerivo To-Do today and start planning, tracking, and finishing with foc
 
 ## Screenshots:
 
-**Instructions:** Please insert the following screenshots in your Google Play listing. I have saved them in your project's root directory.
+**Instructions:** Please insert the following screenshots in your Google Play listing. They are located in your project's root directory.
 
 1.  **Main App Screen:** Shows the clean dashboard and quick capture interface.
-    *Insert screenshot: `Screenshot of Medium Phone API 36.1.png`*
-
-    ![Main screen](Screenshot%20of%20Medium%20Phone%20API%2036.1.png)
+    *   Filename: `Screenshot-1.png`
 
 2.  **Adding a Task:** Demonstrates how easy it is to add a new task with details.
-    *Insert screenshot: `Screenshot of Medium Phone API 36.2.png`*
-
-    ![Adding a task](Screenshot%20of%20Medium%20Phone%20API%2036.2.png)
+    *   Filename: `Screenshot-2.png`
 
 3.  **Task List View:** Shows the updated list after a new task has been added.
-    *Insert screenshot: `Screenshot of Medium Phone API 36.3.png`*
-
-    ![Main screen with tasks](Screenshot%20of%20Medium%20Phone%20API%2036.3.png)
+    *   Filename: `Screenshot-3.png`
